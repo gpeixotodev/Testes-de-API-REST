@@ -17,7 +17,7 @@ Descrição do projeto
 - JSON;
 - Jira;
 - Casos de Teste (Test Cases).
-4. O que você aprendeu (habilidades/competências adquiridas)
+4. O que aprendi com esse projeto (habilidades/competências adquiridas)
 
 - Testes manuais de APIs REST;
 - Criação e execução de requisições HTTP;
